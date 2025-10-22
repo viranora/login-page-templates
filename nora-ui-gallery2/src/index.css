@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  /* Canlı bir gradient arka plan */
+  @apply bg-gradient-to-br from-playful-pink via-playful-yellow to-playful-cyan min-h-screen; 
+  /* Veya sabit bir renk: @apply bg-playful-lime; */
+}
