@@ -1,4 +1,4 @@
-# Living Login Form - Nora's UI Gallery Component
+# Living Login Form - Login Page Templates
 
 
 
