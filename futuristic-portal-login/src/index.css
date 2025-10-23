@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  /* Koyu gri veya siyah arka plan */
+  @apply bg-gray-900; 
+  /* Veya: @apply bg-black; */
+}
