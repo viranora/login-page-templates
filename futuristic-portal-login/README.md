@@ -2,9 +2,13 @@
 
 <br>
 
-
+<div align="center">
+  <img src="src/assets/Ekran Resmi 2025-10-23 11.25.20.png" alt="Login Demo Screenshot" width="500"/>
+</div>
 
 <br>
+
+
 
 A minimalist, tech-inspired login screen component featuring an "opening portal" animation. Designed as part of Nora's UI Gallery, this experiment explores entrance animations, sleek UI elements, and a futuristic aesthetic.
 
