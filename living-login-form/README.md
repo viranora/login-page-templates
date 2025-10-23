@@ -1,12 +1,6 @@
 # Living Login Form - Nora's UI Gallery Component
 
-<br>
 
-<div align="center">
-  <p><em>(Add a visual preview here)</em></p>
-</div>
-
-<br>
 
 A sophisticated and subtly animated login form component, designed as part of Nora's UI Gallery – a collection showcasing advanced frontend experiments. This component focuses on creating an ambient and interactive user experience using glassmorphism, fluid background animations, and precise micro-interactions.
 
