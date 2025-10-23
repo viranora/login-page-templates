@@ -42,6 +42,20 @@ Here are some of the interactive components you can explore within this reposito
 
 ---
 
+### 3. Futuristic Portal Login
+
+* **Description:** A minimalist, tech-inspired login screen featuring an "opening portal" animation. Panels slide open to reveal the form, creating a sense of accessing a secure system.
+* **Key Techniques:** `AnimatePresence` with `exit` variants, `staggerChildren` for form reveal, neon accents, minimalist input design.
+
+<div align="center">
+  <img src="./previews/futuristic_login_demo.gif" alt="Futuristic Portal Login Demo" width="600"/>
+  <p><em>(Replace placeholder with actual visual preview)</em></p>
+</div>
+
+➡️ [View Details & Code : `/futuristic-portal-login/README.md`
+
+---
+
 (More experiments will be added here...)
 
 ---
