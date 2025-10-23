@@ -1,6 +1,5 @@
-Login Page Templates ✨ - Frontend Experiments & Animations
+<div align="center"> Login Page Templates ✨ - Frontend Experiments & Animations </div>
 
-<div align="center">
 <p>Welcome! This repository is a curated collection of frontend components and animations, </p>
 <p>designed to showcase creative user interface patterns and interactions.</p>
 
