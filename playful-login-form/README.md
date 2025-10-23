@@ -1,5 +1,13 @@
 # Playful Login Form - Login Page Templates
 
+<br>
+
+<div align="center">
+  <img src="src/assets/Ekran Resmi 2025-10-23 12.02.37.png" alt="Login Demo Screenshot" width="500"/>
+</div>
+
+<br>
+
 
 An energetic, colorful, and highly animated login form component, designed as part of Nora's UI Gallery – a collection showcasing advanced frontend experiments. This component focuses on creating a fun and engaging user experience using spring physics, dynamic layouts, and interactive background elements.
 
